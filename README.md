@@ -1,1 +1,1 @@
-# Simple-Paint-App
+# Simple-Paint-App by Shawn
